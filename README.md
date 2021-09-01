@@ -28,6 +28,6 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
- <img src="https://i.quotev.com/img/q/u/20/8/7/g57475zoip.jpg" width="180" align="right">
+ <img src="https://i.quotev.com/img/q/u/20/8/7/g57475zoip.jpg" width="160" align="right">
 </div>
 
