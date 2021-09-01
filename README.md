@@ -4,3 +4,9 @@
 - 🌱 I’m currently learning ReactJs, NextJs, NodeJs
 - 📫 How to reach me: @gabriel.karv
 
+
+ref="https://github.com/joaogkvalho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogkvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogkvalho&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
