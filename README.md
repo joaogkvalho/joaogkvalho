@@ -36,3 +36,13 @@
 </div>
 
 ##
+
+<div>
+  <h4>Curiosities about me:</h4>
+  
+  <ul>
+    <li>I'm 19 years old, and I've been programming since I was 12 years old.</li>
+    <li>I started with basic programming logic, HTML, CSS and JS.</li>
+    <li>In my free time I like to play games and watch animes.</li>
+  </ul>
+</div>
