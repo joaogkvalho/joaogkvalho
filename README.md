@@ -1,10 +1,10 @@
 <h2>Hello There, I'm João Gabriel👋</h2>
 
 - I'm currently studing ReactJS and React Native on the plataform Rocketseat.
-- Searching for a job opportunite to work as a web developer.
+- Searching for a job opportunity to work as a web developer.
 - I like a lot to create new things and that's why I love the front end area.
 - I'm 19 years old and I've been programming since I was 11.
-- And curiositie about me: I have Tourret's Syndrome since my 8 years old.
+- And curiosity about me: I have Tourret's Syndrome since my 8 years old.
 
 
 <div>
