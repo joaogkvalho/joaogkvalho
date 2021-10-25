@@ -6,12 +6,6 @@
 - I'm 19 years old and I've been programming since I was 11.
 - And curiosity about me: I have Tourret's Syndrome since my 8 years old.
 
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogkvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogkvalho&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ##
 
 <h4>Languages and Tools:</h4>
