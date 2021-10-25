@@ -19,16 +19,16 @@
 
 ##
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogkvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogkvalho&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-##
-
 <div style="display: flex">
   <h4>How to reach me:</h4>
   <div style="margin-top: 50">
   <a href = "mailto:joaogkvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
+</div>
+
+##
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogkvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogkvalho&layout=compact&langs_count=7&theme=dark"/>
 </div>
