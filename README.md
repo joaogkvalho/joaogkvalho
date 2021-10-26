@@ -4,7 +4,7 @@
 - Searching for a job opportunity to work as a web developer.
 - I like a lot to create new things and that's why I love the front end area.
 - I'm 19 years old and I've been programming since I was 11.
-- And curiosity about me: I have Tourret's Syndrome since my 8 years old.
+- A curiosity about me: I have Tourret's Syndrome since my 8 years old.
 
 ##
 
