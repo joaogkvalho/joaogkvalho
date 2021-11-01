@@ -23,6 +23,7 @@
   <h4>How to reach me:</h4>
   <div style="margin-top: 50">
   <a href = "mailto:joaogkvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-gabriel-carvalho-72107a225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 </div>
 
