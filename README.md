@@ -1,4 +1,5 @@
 <h2>Hello There, I'm João Gabriel👋</h2>
+
 - I'm a front-end developer working with ReactJS
 - Searching for a job opportunity.
 - I like a lot to create new things and that's why I love the front end area.
