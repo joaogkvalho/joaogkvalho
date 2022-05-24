@@ -3,7 +3,7 @@
 - I'm a front-end developer working with ReactJS
 - Searching for a job opportunity.
 - I like a lot to create new things and that's why I love the front end area.
-- I'm 19 years old and I've been programming since I was 11.
+- I'm 20 years old and I've been programming since I was 11.
 
 ##
 
