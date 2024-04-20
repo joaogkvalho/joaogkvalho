@@ -3,7 +3,7 @@
 - I'm a front-end developer working with ReactJS
 - Working as front-end Developer at Docg
 - I like a lot to create new things and that's why I love the front end area.
-- I'm 21 years old and I've been programming since I was 12.
+- I'm 22 years old and I've been programming since I was 12.
 
 ##
 
