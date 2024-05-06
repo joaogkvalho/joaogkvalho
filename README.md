@@ -1,7 +1,7 @@
 <h2>Hello There, I'm João Gabriel👋</h2>
 
 - I'm a front-end developer working with ReactJS
-- Working as front-end Developer at Docg
+- Searching for a job opportunity to work with React or React Native.
 - I like a lot to create new things and that's why I love the front end area.
 - I'm 22 years old and I've been programming since I was 12.
 
