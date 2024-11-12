@@ -1,8 +1,9 @@
 <h2>Hello There, I'm João Gabriel👋</h2>
 
-- I'm a front-end developer working with ReactJS and React Native.
+- I'm a front-end developer working with ReactJS, React Native and Kotlin.
 - Searching for a job opportunity to work with React or/and React Native.
 - I like a lot to create new things and that's why I love the front end area.
+- Now I'm more focused in the mobile area, but I still making web projects.
 - I'm 22 years old, son of a software engineer and i've been coding since my 12's.
 
 ##
