@@ -1,10 +1,10 @@
 <h2>Hello There, I'm João Gabriel👋</h2>
 
-- I'm a front-end developer working with ReactJS, React Native and Kotlin.
-- Searching for a job opportunity to work with React or/and React Native.
+- I'm a front-end developer working with ReactJS, React Native.
+- Studying Golang to improve my back-end skills
 - I like a lot to create new things and that's why I love the front end area.
 - Now I'm more focused in the mobile area, but I still making web projects.
-- I'm 22 years old, son of a software engineer and i've been coding since my 12's.
+- I'm 23 years old, son of a software engineer and i've been coding since my 11's.
 
 ##
 
@@ -12,8 +12,7 @@
 <div>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Joao-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">            
+  <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">         
 </div>
 
 ##
