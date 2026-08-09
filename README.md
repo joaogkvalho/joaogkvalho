@@ -30,5 +30,5 @@ My background is primarily in React Native and web development, and I'm now deep
 
 ### 📫 Let's connect
 
-- LinkedIn: [João Gabriel Carvalho](SEU_LINKEDIN)
+- LinkedIn: [João Gabriel Carvalho](https://www.linkedin.com/in/joaogkvalho/)
 - GitHub: [@joaogkvalho](https://github.com/joaogkvalho)
