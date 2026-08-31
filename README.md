@@ -23,11 +23,6 @@ My background is primarily in React Native and web development, and I'm now deep
 - JavaScript
 - Kotlin
 
-### 📱 Featured Projects
-
-- **MoneyMe** — Native iOS application built with Swift and UIKit
-- **CoreFramework** — Reusable Swift framework distributed through Swift Package Manager
-
 ### 📫 Let's connect
 
 - LinkedIn: [João Gabriel Carvalho](https://www.linkedin.com/in/joaogkvalho/)
